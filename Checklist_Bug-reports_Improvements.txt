@@ -1,10 +1,10 @@
-Документы по тестированию формы регистрации.
+Р”РѕРєСѓРјРµРЅС‚С‹ РїРѕ С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЋ С„РѕСЂРјС‹ СЂРµРіРёСЃС‚СЂР°С†РёРё.
 
-Чеклист. Ссылка:
+Р§РµРєР»РёСЃС‚. РЎСЃС‹Р»РєР°:
 https://docs.google.com/spreadsheets/d/1ByBLUGRfoLIukPOz-Z0jdWB-6PaFFl1TVu4es6UXJZE/edit?usp=sharing
 
-Баг-репорты. Ссылка:
+Р‘Р°Рі-СЂРµРїРѕСЂС‚С‹. РЎСЃС‹Р»РєР°:
 https://docs.google.com/document/d/1tAgUDlTs5penNiMxDjounnkhrFmziioFsIXhnVlMURw/edit?usp=sharing
 
-Улучшения (Improvements). Ссылка:  
+РЈР»СѓС‡С€РµРЅРёСЏ (Improvements). РЎСЃС‹Р»РєР°:  
 https://docs.google.com/document/d/1ryenxMImXvMSf7DBeBCWD-lYreSVxTGlIcadM9He3RM/edit?usp=sharing
