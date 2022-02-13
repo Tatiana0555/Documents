@@ -1,3 +1,3 @@
 # Documents
-Checklist, Bug reports, Improvements
+Checklist, Bug reports, Improvements. Test plan.
 Тест план создан в качестве тестового задания одной из компаний. В реальности понимаю, что на форму регистрации такой документ создаваться не будет.
